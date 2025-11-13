@@ -78,7 +78,6 @@
 0.0.0.0 www.loewen-play.de
 0.0.0.0 www.repeat.gg
 0.0.0.0 www.loewen-play.de
-0.0.0.0 worldofwarships.eu
 0.0.0.0 papergames.io
 0.0.0.0 www.play.de
 0.0.0.0 www.zylom.com
