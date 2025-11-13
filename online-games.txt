@@ -1,7 +1,6 @@
 # pihole blocklist for Browser games
 0.0.0.0 www.crazygames.com
 0.0.0.0 www.spielaffe.de
-0.0.0.0 itch.io
 0.0.0.0 browsergames.de
 0.0.0.0 poki.com
 0.0.0.0 www.1001spiele.de
@@ -40,11 +39,7 @@
 0.0.0.0 fortnite.com
 0.0.0.0 arcadespot.com
 0.0.0.0 www.play-games.com
-0.0.0.0 www.chess.com
 0.0.0.0 www.topgames.com
-0.0.0.0 store.steampowered.com
-0.0.0.0 steamcommunity.com
-0.0.0.0 help.steampowered.com
 0.0.0.0 www.spielen.com
 0.0.0.0 www.spiele123.com
 0.0.0.0 spiele.heise.de
@@ -75,7 +70,6 @@
 0.0.0.0 snake.googlemaps.com
 0.0.0.0 www.gogy.com
 0.0.0.0 www.free80sarcade.com
-0.0.0.0 www.rockstargames.com
 0.0.0.0 playhop.com
 0.0.0.0 www.desura.com
 0.0.0.0 www.jackpots.ch
